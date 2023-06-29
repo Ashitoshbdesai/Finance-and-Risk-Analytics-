@@ -2,6 +2,7 @@
 Business Task:
 
 Analysing the portfolio of stocks to provide consultation on investment management based on the client’s requirements.
+
 Business Objectives:
 
 What are the trends identified?
