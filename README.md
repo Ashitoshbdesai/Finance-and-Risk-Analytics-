@@ -20,4 +20,5 @@ A video explaining the presentation: As the portfolio manager, you are expected 
 Key Stakeholders:
 
 Patrick Jyengar - A successful entrepreneur - Jayengar Waterworks
+
 Peter Jyengar - Inheritor of Patrick Jyengar
